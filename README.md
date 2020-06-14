@@ -35,6 +35,7 @@ core-code.io is designed as if you were already hired by a software company. You
 
 #### Why are we here (Day 1, 4-7pm)
 
+
 ##### Meet the Tools we will be working with
 ##### Purpose Monday (once a month) 
 ##### Meeting a New World Example (every monday? 2 programmers bring a new to share with the team)
@@ -44,7 +45,10 @@ core-code.io is designed as if you were already hired by a software company. You
 ##### How much could I earn (and when)
 ##### Interesting Individual challenges
 
+
+
 #### The Development Environment (Day 2, 4-7pm)
+
 
 ##### Introduction to the tools
 ##### The CLI
@@ -54,7 +58,11 @@ core-code.io is designed as if you were already hired by a software company. You
 ###### The browser developer tools
 ##### Stackoverflow.com
 
+
+
+
 #### Version control systems (Day 3, 4-7pm)
+
 
 ##### Introduction to Github
 ##### Introduction to GIT
@@ -65,18 +73,26 @@ core-code.io is designed as if you were already hired by a software company. You
 ##### Code reviews
 ##### Peer review expercise
 
+
+
 #### Introduction to HTML (Day 4, 4-7pm)
+
 
 ##### Hello world
 ##### Structure of a web page
 ##### HTML elements and the DOM
 ##### Peer excercises on version control and HTML
 
+
 (they can use the slack and tandem friday-sunday, I could facilitate collaborative feedback during these days for the excercises)
+
+
+
 
 ### Week 2
 
 #### Introduction to Javascript (Day 5, 4-7pm)
+
 
 ##### Basics of any programming language
 ##### Writing my first program
