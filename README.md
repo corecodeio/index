@@ -29,40 +29,59 @@ You will feel comfortable with your code, not only because it works, but because
 
 core-code.io is designed as if you were already hired by a software company. You'll learn how to use common communication tools such as Slack and SCRUM. Common version control tools such as GIT and Github. Common development tools such as the command line and the text editor, common deployment tools, and of course, you'll learn how to program SOLID products utilizing patterns such as TDD and OOP. 
 
-## Mutable INDEX (because it will change overtime)
+## Mutable INDEX (because it will change overtime) 
 
-### Why are we here
-#### A day in the life of a software engineer
-#### Where can I work in
-#### What can I build
-#### How much could I earn (and when)
+### Week 1
 
-### The development environment
-#### Introduction to the tools
-#### The CLI
-##### Basic file and directory navigation commands (cd, pwd, touch, env, source, echo, rm, cp, mkdir)
-#### The text editor
-#### The browser
-##### The browser developer tools
-#### Stackoverflow.com
+#### Why are we here (Day 1, 4-7pm)
 
-### Version control systems
-#### Introduction to Github
-#### Introduction to GIT
-#### Basic GIT commands (commit, fetch, pull, push, config, remote, merge, branch, checkout)
-#### Branches
-#### Resolving merge conflicts
-#### Creating a Pull Request
-#### Code reviews
+##### Meet the Tools we will be working with
+##### Purpose Monday (once a month) 
+##### Meeting a New World Example (every monday? 2 programmers bring a new to share with the team)
+##### A day in the life of a software engineer
+##### Where can I work in
+##### What can I build
+##### How much could I earn (and when)
+##### Interesting Individual challenges
 
-### Introduction to HTML
-#### Hello world
-#### Structure of a web page
-#### HTML elements and the DOM
+#### The Development Environment (Day 2, 4-7pm)
 
-### Introduction to JavaScript
-#### Basics of any programming language
-#### Writing my first program
-#### Running my program
+##### Introduction to the tools
+##### The CLI
+###### Basic file and directory navigation commands (cd, pwd, touch, env, source, echo, rm, cp, mkdir)
+##### The text editor
+##### The browser
+###### The browser developer tools
+##### Stackoverflow.com
 
-### Javascript Fundamentals ([resource](https://javascript.info/))
+#### Version control systems (Day 3, 4-7pm)
+
+##### Introduction to Github
+##### Introduction to GIT
+##### Basic GIT commands (commit, fetch, pull, push, config, remote, merge, branch, checkout)
+##### Branches
+##### Resolving merge conflicts
+##### Creating a Pull Request
+##### Code reviews
+##### Peer review expercise
+
+#### Introduction to HTML (Day 4, 4-7pm)
+
+##### Hello world
+##### Structure of a web page
+##### HTML elements and the DOM
+##### Peer excercises on version control and HTML
+
+(they can use the slack and tandem friday-sunday, I could facilitate collaborative feedback during these days for the excercises)
+
+### Week 2
+
+#### Introduction to Javascript (Day 5, 4-7pm)
+
+##### Basics of any programming language
+##### Writing my first program
+##### Running my program
+##### Peer excercises using Javascript
+
+
+#### Javascript Fundamentals ([resource](https://javascript.info/))
